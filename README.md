@@ -170,6 +170,6 @@ This project is licensed under the **MIT License**. Please refer to the `LICENSE
 
 ### Contact
 
-For further inquiries or support, contact us at: [your_email@example.com].
+For further inquiries or support, contact us at:regulavalasamanoj22@gmail.com.
 
 --- 
