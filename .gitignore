@@ -1,0 +1,22 @@
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore temporary or backup files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Ignore specific data files
+*.xls
+*.xlsx
+
+# Ignore model folders
+models/
+
+# Ignore all generated or environment-specific folders
+*.env
+*.venv
+*.gguf
